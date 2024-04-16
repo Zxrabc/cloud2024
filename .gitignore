@@ -1,0 +1,12 @@
+# 项目排除路径
+/cloud-api-commons/target/
+/cloud-consumer-feign-order8004/target/
+/cloud-consumer-order8002/target/
+/cloud-gateway9527/target/
+/cloud-provider-payment8001/target/
+/cloud-provider-payment8003/target/
+/cloudalibaba-config-nacos-client3377/target/
+/cloudalibaba-consumer-nacos-order9002/target/
+/cloudalibaba-provider-payment9001/target/
+/cloudalibaba-provider-payment9003/target/
+/cloudalibaba-sentinel-service8401/target/
